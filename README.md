@@ -1,7 +1,7 @@
 Site internet de la Société Valaisanne de Physique
 ==================================================
 
-Toutes les commit sur la branche "master" sont automatiquement déployés sur [valaisphysique.ch](https://valaisphysique.ch).
+Toutes les commit sur la branche "master" sont automatiquement déployés sur [test.valaisphysique.ch](https://test.valaisphysique.ch).
 
 
 Éditer le contenu
