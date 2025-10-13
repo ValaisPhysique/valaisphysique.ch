@@ -15,7 +15,10 @@ Il y a deux types de contenu:
 Tests
 -----
 
-Pour tester le site en version locale, utiliser la commande:
+Pour tester le site en version locale:
+1. cloner le repo
+2. installer Ruby
+3. lancer le serveur avecla commande:
 ```console
 bundle exec jekyll serve
 ```
