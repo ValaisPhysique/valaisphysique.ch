@@ -54,5 +54,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: "./_site/"
-          server-dir: "test.valaisphysique.ch/"
+          server-dir: "valaisphysique.ch/"
 
