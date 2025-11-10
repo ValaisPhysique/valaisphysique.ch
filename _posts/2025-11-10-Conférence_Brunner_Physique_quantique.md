@@ -1,6 +1,5 @@
 ---
 title: "Physique quantique : À l'aube d'une nouvelle révolution"
-permalink: /conf/2025-11-10-Brunner
 ---
 
 
