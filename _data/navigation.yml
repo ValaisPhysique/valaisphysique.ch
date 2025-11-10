@@ -4,5 +4,7 @@ main:
     url: /
   - title: "Contact"
     url: /contact/
+  - title: "Archives"
+    url: https://archives.valaisphysique.ch
   - title: "À propos"
     url: /about/
