@@ -5,8 +5,9 @@ layout: home
 
 Bienvenue sur le site internet de la Société Valaisanne de Physique!
 
-Notre société sort d'une longue période d'hibernation post-Covid et vous invite à son mini-symposium le vendredi 21 novembre prochain à 19h à Sion.
+Notre société est sortie d'une longue période d'hibernation post-Covid avec une conférence sur la physique quantique
+en novembre dernier.
 
-Pour cette renaissance, le prof. Nicolas Brunner viendra nous donner un tour d'horizon de la physique quantique. Dans la tradition des symposiums précédents, nous reviendrons également sur le Nobel de physique 2025, toujours sur le thème de la physique quantique. Enfin, nous tiendrons une (très) courte assemblée générale, histoire de formellement relancer notre société.
+Elle vous convie maintenant à [une conférence sur la neige et son rôle dans le système climatique](/Conférence_Huwald_Neige).
 
-[![Poster de la conférence](/assets/images/2025-11-21_brunner_affiche.png)](/Conférence_Brunner_Physique_quantique)
+[![Poster de la conférence](/assets/images/2026-05-01_huwald_affiche.png)](/Conférence_Huwald_Neige)
