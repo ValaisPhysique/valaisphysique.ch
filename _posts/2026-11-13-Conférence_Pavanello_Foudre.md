@@ -3,7 +3,7 @@ title: "Caractérisation expérimentale de la foudre: la Suisse au premier plan"
 ---
 
 
-## Conférence, samedi 28 novembre, 19h
+## Conférence, samedi 28 novembre, 18h
 
 HES-SO Valais-Wallis, Campus Energypolis \
 [Rue de l'Industrie 21, 1950 Sion](https://maps.app.goo.gl/HffDpiFsoqz7H5vTA) \
